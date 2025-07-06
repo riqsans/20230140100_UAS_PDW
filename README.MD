@@ -6,9 +6,9 @@ Berikut screenshot tampilan (UI) antarmuka web SIMPRAK bagian **asisten**:
 
 ![Kelola Akun Asisten](SS/ss_asisten/kelola_akun_asisten.png)  
 ![Dashboard Asisten](SS/ss_asisten/dashboard_asisten.png)  
-![Kelola Praktikum](SS/ss_asisten/kelola_praktikum.png)  
+![Kelola Praktikum](SS/ss_asisten/kelola_praktikum_asisten.png)  
 ![Laporan Asisten](SS/ss_asisten/laporan_asisten.png)  
-![Manajemen Modul](SS/manajemen_modul_asisten.png)
+![Manajemen Modul](SS/ss_asisten/manajemen_modul_asisten.png)
 
 ---
 
